@@ -90,8 +90,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files          = "TriangleSlider/Classes/**/*.{h,m}"
-  s.public_header_files   = "TriangleSlider/Classes/**/*.h"
+  s.source_files          = "NAME_OF_POD/Classes/**/*.{h,m}"
+  s.public_header_files   = "NAME_OF_POD/Classes/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
